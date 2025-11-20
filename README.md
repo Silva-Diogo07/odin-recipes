@@ -1,3 +1,3 @@
 README
 
-This is from "The Odin Project" lessons. 
+That's a lesson from "The Odin Project"
